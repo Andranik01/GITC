@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Gitc Student/Desktop/C++/my_project/main.cpp
+iostream
+C:/Users/Gitc Student/Desktop/C++/my_project/iostream
+
