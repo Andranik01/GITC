@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Gitc Student/Desktop/C++/my_project/main.cpp
+struct1.h
+C:/Users/Gitc Student/Desktop/C++/my_project/struct1.h
+show_struct.h
+C:/Users/Gitc Student/Desktop/C++/my_project/show_struct.h
+
+C:/Users/Gitc Student/Desktop/C++/my_project/show_struct.h
+
+C:/Users/Gitc Student/Desktop/C++/my_project/struct1.h
+struct2.h
+C:/Users/Gitc Student/Desktop/C++/my_project/struct2.h
+
+C:/Users/Gitc Student/Desktop/C++/my_project/struct2.h
+iostream
+C:/Users/Gitc Student/Desktop/C++/my_project/iostream
+
